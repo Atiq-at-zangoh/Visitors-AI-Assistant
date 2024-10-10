@@ -1,0 +1,7 @@
+autogen
+streamlit
+python-dotenv
+google-generativeai
+langchain_google_genai
+pandas
+autogen-agentchat[llm,gemini]~=0.2
